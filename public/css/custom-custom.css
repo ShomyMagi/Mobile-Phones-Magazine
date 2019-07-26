@@ -1,0 +1,155 @@
+#searchValue
+{
+    border: 1px solid white;
+    border-radius: 2px;
+}
+#bs-example
+{
+    margin: 5px 50px;
+    width: 450px;
+}
+#aboutme
+{
+    width:100%;
+    height: 445px;
+}
+#container_about
+{
+    padding: 5%;
+}
+#container_about img
+{
+    margin-left: 140px;
+}
+.input-wrapper-lock {
+    position: relative;
+}
+.input-wrapper-lock:before {
+    content: "\f023";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 18px;
+    color: #4caf50;
+    padding-right: 0.5em;
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+.input-wrapper-head {
+    position: relative;
+}
+.input-wrapper-head:before {
+    content: "\f007";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 18px;
+    color: #4caf50;
+    padding-right: 0.5em;
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+.input-wrapper:before {
+    content: "\f069";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 13px;
+    color: #ff3300;
+    padding-right: 1.2em;
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
+.input-wrapper1:before {
+    content: "\f069";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 13px;
+    color: #ff3300;
+    padding-right: 1.2em;
+    position: absolute;
+    top: 125px;
+    right: 0;
+}
+.input-wrapper2:before {
+    content: "\f069";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 13px;
+    color: #ff3300;
+    padding-right: 1.2em;
+    position: absolute;
+    top: 195px;
+    right: 0;
+}
+.input-wrapper3:before {
+    content: "\f069";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 13px;
+    color: #ff3300;
+    padding-right: 1.2em;
+    position: absolute;
+    top: 260px;
+    right: 0;
+}
+.input-wrapper4:before {
+    content: "\f069";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 13px;
+    color: #ff3300;
+    padding-right: 1.2em;
+    position: absolute;
+    top: 325px;
+    right: 0;
+}
+.input-wrapper5:before {
+    content: "\f069";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 13px;
+    color: #ff3300;
+    padding-right: 1.2em;
+    position: absolute;
+    top: 390px;
+    right: 0;
+}
+.input-wrapper6:before {
+    content: "\f069";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 13px;
+    color: #ff3300;
+    padding-right: 1.2em;
+    position: absolute;
+    top: 455px;
+    right: 0;
+}
+#views
+{
+    float: right;
+}
+#dropdown
+{
+    padding: 20px 0px;
+    margin-right: 430px;
+}
